@@ -1,0 +1,109 @@
+﻿<Page x:Class="Sofa_World.Pages.Admin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Sofa_World.Pages"
+      mc:Ignorable="d" 
+     d:DesignHeight="900" d:DesignWidth="782"
+      Title="Admin">
+    <Page.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="#FF498C51"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="Foreground" Value="#FFFFFFFF"/>
+            <Setter Property="FontSize" Value="15"/>
+        </Style>
+        <Style TargetType="{x:Type Grid}">
+            <Setter Property="Background" Value="#FFFFFFFF"/>
+        </Style>
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FF498C51"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="15"/>
+        </Style>
+        <Style TargetType="{x:Type TabControl}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+        </Style>
+        <Style TargetType="{x:Type TabItem }">
+            <Setter Property="Background" Value="#FF76E383"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <StackPanel>
+            <Grid>
+                <ListView x:Name="info" Margin="0,10,0,40" >
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="order_date" Width="100" DisplayMemberBinding="{Binding order_date}"/>
+                            <GridViewColumn Header="delivery_date" Width="100" DisplayMemberBinding="{Binding delivery_date}"/>
+                            <GridViewColumn Header="point_of_issue" Width="100" DisplayMemberBinding="{Binding point_of_issue}"/>
+                            <GridViewColumn Header="id_client" Width="100" DisplayMemberBinding="{Binding id_client}"/>
+                            <GridViewColumn Header="receive_code" Width="100" DisplayMemberBinding="{Binding receive_code}"/>
+                            <GridViewColumn Header="order_status" Width="100" DisplayMemberBinding="{Binding order_status}"/>
+
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Button Click="Delete" Content="Delete" HorizontalAlignment="Right" Margin="0,0, 0,10" VerticalAlignment="Bottom" />
+                <Button Click="Add" Content="Add" HorizontalAlignment="Right" Margin="0,0,110,10" VerticalAlignment="Bottom" />
+                <Button Click="Update" Content="Update" HorizontalAlignment="Right" Margin="0,0,220,10" VerticalAlignment="Bottom" />
+            </Grid>
+            <Grid>
+                <ListView x:Name="info1" Margin="0,10,0,40" >
+                    <ScrollViewer>
+                        
+                    </ScrollViewer>
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="article" Width="60" DisplayMemberBinding="{Binding article}"/>
+                            <GridViewColumn Header="name" Width="100" DisplayMemberBinding="{Binding name}"/>
+                            <GridViewColumn Header="price" Width="60" DisplayMemberBinding="{Binding price}"/>
+                            <GridViewColumn Header="max_discount" Width="50" DisplayMemberBinding="{Binding max_discount}"/>
+                            <GridViewColumn Header="manufacturer" Width="100" DisplayMemberBinding="{Binding manufacturer}"/>
+                            <GridViewColumn Header="supplier" Width="100" DisplayMemberBinding="{Binding supplier}"/>
+                            <GridViewColumn Header="category_id" Width="50" DisplayMemberBinding="{Binding category_id}"/>
+                            <GridViewColumn Header="discount" Width="50" DisplayMemberBinding="{Binding discount}"/>
+                            <GridViewColumn Header="amount_on_warehouse" Width="50" DisplayMemberBinding="{Binding amount_on_warehouse}"/>
+                            <GridViewColumn Header="description" Width="300" DisplayMemberBinding="{Binding description}"/>
+                            <GridViewColumn Header="img_src" Width="100" DisplayMemberBinding="{Binding img_src}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Button Click="DeleteOrder" Content="Delete" HorizontalAlignment="Right" Margin="0,0, 0,10" VerticalAlignment="Bottom" />
+                <Button Click="AddOrder" Content="Add" HorizontalAlignment="Right" Margin="0,0,110,10" VerticalAlignment="Bottom" />
+                <Button Click="UpdateOrder" Content="Update" HorizontalAlignment="Right" Margin="0,0,220,10" VerticalAlignment="Bottom" />
+            </Grid>
+            <Grid>
+                <ListView x:Name="info2" Margin="0,10,0,40" >
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="surname" Width="100" DisplayMemberBinding="{Binding Surname}"/>
+                            <GridViewColumn Header="name" Width="100" DisplayMemberBinding="{Binding Name}"/>
+                            <GridViewColumn Header="lastname" Width="100" DisplayMemberBinding="{Binding Patronymic}"/>
+                            <GridViewColumn Header="login" Width="100" DisplayMemberBinding="{Binding Login}"/>
+                            <GridViewColumn Header="pwd" Width="100" DisplayMemberBinding="{Binding Password}"/>
+                            <GridViewColumn Header="role" Width="100" DisplayMemberBinding="{Binding Role}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Button Click="DeleteUser" Content="Delete" HorizontalAlignment="Right" Margin="0,0, 0,10" VerticalAlignment="Bottom" />
+                <Button Click="AddUser" Content="Add" HorizontalAlignment="Right" Margin="0,0,110,10" VerticalAlignment="Bottom" />
+                <Button Click="UpdateUser" Content="Update" HorizontalAlignment="Right" Margin="0,0,220,10" VerticalAlignment="Bottom" />
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>

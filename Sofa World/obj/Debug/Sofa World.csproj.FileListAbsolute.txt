@@ -1,0 +1,183 @@
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\Sofa World.exe.config
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\Sofa World.exe
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\Sofa World.pdb
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.AssemblyReference.cache
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\MainWindow.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\App.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World_MarkupCompile.cache
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World_MarkupCompile.lref
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\MainWindow.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.g.resources
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa_World.Properties.Resources.resources
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.GenerateResource.cache
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.CoreCompileInputs.cache
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.exe
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.pdb
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Login.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Login.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.SuggestedBindingRedirects.cache
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\App.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Main.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Main.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.xml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.CopyComplete
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\Google.Protobuf.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\ZstdNet.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\System.Memory.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\System.Buffers.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.xml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Sofa World.exe.config
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Order.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Order.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\korz.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\korz.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Manager.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Manager.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Chang\Up.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Chang\Up.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Admin.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Pages\Admin.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Chang\UpProduct.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Chang\UpProduct.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Chang\UpUser.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Chang\UpUser.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Adding\Add.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Adding\Add.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Adding\AddProduct.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Adding\AddUser.g.cs
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Adding\AddProduct.baml
+C:\Users\nariz\OneDrive\Рабочий стол\proga\Sofa World\Sofa World\obj\Debug\Adding\AddUser.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.AssemblyReference.cache
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.SuggestedBindingRedirects.cache
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.exe.config
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\Add.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddProduct.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddUser.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\Up.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpProduct.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpUser.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\MainWindow.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Admin.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\korz.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Login.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Main.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Manager.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Order.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\App.g.cs
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World_MarkupCompile.cache
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World_MarkupCompile.lref
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.exe
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.pdb
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Sofa World.exe.config
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Sofa World.exe
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Sofa World.pdb
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.SqlServer.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.EntityFramework.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Google.Protobuf.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\ZstdNet.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\BouncyCastle.Crypto.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Ubiety.Dns.Core.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\System.Memory.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\System.Buffers.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\K4os.Compression.LZ4.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\K4os.Hash.xxHash.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.xml
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.SqlServer.xml
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.xml
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\MySql.Data.EntityFramework.xml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\App.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\Add.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddProduct.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddUser.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\Up.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpProduct.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpUser.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\MainWindow.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Admin.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\korz.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Login.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Main.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Manager.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Order.baml
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.g.resources
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa_World.Properties.Resources.resources
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.GenerateResource.cache
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.CoreCompileInputs.cache
+I:\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.CopyComplete
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.Charting.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Syncfusion.Compression.Base.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Syncfusion.Licensing.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.xml
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.Charting.xml
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Syncfusion.Compression.Base.xml
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\de\PdfSharp.resources.dll
+I:\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\de\PdfSharp.Charting.resources.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\Add.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddProduct.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddUser.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\Up.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpProduct.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpUser.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\MainWindow.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Admin.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\korz.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Login.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Main.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Manager.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Order.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\App.g.cs
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World_MarkupCompile.cache
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World_MarkupCompile.lref
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.exe
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.pdb
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Sofa World.exe.config
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Sofa World.exe
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Sofa World.pdb
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.SqlServer.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.Charting.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Syncfusion.Compression.Base.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Syncfusion.Licensing.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.xml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\EntityFramework.SqlServer.xml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.xml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\PdfSharp.Charting.xml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Syncfusion.Compression.Base.xml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\de\PdfSharp.resources.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\de\PdfSharp.Charting.resources.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\App.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\Add.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddProduct.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Adding\AddUser.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\Up.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpProduct.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Chang\UpUser.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\MainWindow.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Admin.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\korz.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Login.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Main.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Manager.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Pages\Order.baml
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.g.resources
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa_World.Properties.Resources.resources
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.GenerateResource.cache
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csproj.CopyComplete
+F:\3\Вариант 7\proga\Sofa World\Sofa World\bin\Debug\Ubiety.Dns.Core.dll
+F:\3\Вариант 7\proga\Sofa World\Sofa World\obj\Debug\Sofa World.csprojAssemblyReference.cache
